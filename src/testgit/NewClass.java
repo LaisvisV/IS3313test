@@ -9,13 +9,7 @@ package testgit;
  *
  * @author 117336536
  */
-public class Testgit {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-   
+public class NewClass {
+    int i = 1;
+    int x = 0;
 }
